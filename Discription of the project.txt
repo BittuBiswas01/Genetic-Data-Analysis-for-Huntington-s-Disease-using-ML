@@ -1,0 +1,1 @@
+To develop a preliminary model that analyses parental genetic data to predict the potential inheritance of Huntington’s disease in children.
